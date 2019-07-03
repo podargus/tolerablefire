@@ -1,5 +1,5 @@
 Package: tolerablefire
-Title: Tolerable Fire Intervals
+Title: Tolerable Fire Intervals and such
 Version: 0.0.0.9000
 Authors@R: person("Chris", "Malam", email = "chris.malam@act.gov.au", role = c("aut","cre"))
 Description: This package calculates the Tolerable Fire Intervals using Vegetation Information obtained at the Keith Class level
